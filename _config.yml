@@ -1,0 +1,13 @@
+# GitHub Pages: https://secondwindlimited.github.io/freescanner-pdf-scanner-guides/
+title: "FreeScanner: PDF Scanner App Without an Account"
+description: "Scanning guides, privacy FAQ and free PDF tools for FreeScanner, the document scanner for iPhone and Android."
+url: https://secondwindlimited.github.io
+baseurl: /freescanner-pdf-scanner-guides
+lang: en
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+author:
+  name: SECOND WIND LIMITED
+  url: https://secondwindltd.xyz/
