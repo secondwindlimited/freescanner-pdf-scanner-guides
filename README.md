@@ -1,5 +1,7 @@
 # FreeScanner: PDF scanner app without an account (guides, FAQ and free PDF tools)
 
+🌐 **English** · [中文](README.zh.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) <!-- languages -->
+
 **FreeScanner is a document scanner app for iPhone and Android that turns your phone camera into a PDF scanner, with no account required.** Scan, crop, rotate and save documents as PDF on your device. Sign in only if you want private sync and the web workspace.
 
 📱 [FreeScanner for iPhone](https://apps.apple.com/app/id6792426877) · [FreeScanner for Android](https://play.google.com/store/apps/details?id=com.secondwind.freescanner) · 🌐 [freescanner.secondwindltd.xyz](https://freescanner.secondwindltd.xyz/)
@@ -43,6 +45,30 @@ Looking for a CamScanner alternative, an Adobe Scan alternative or a Microsoft L
 ## Support and privacy
 
 [Support](https://freescanner.secondwindltd.xyz/support) · [Privacy policy](https://freescanner.secondwindltd.xyz/privacy) · [Terms](https://freescanner.secondwindltd.xyz/terms) · [Delete your account](https://freescanner.secondwindltd.xyz/delete-account) · support@secondwindltd.xyz
+
+<!-- faq -->
+## Frequently asked questions
+
+### Is there a scanner app that works without an account?
+
+Yes. FreeScanner scans, crops, rotates and saves PDFs on your phone without signing in. An account is only needed for optional sync and the web workspace.
+
+### How do I scan a document to PDF with my phone?
+
+Open FreeScanner, point the camera at the page, capture, adjust the crop and export as PDF. For sharper results, follow the [12 scanning tips](docs/scanning-tips.md).
+
+### Are my scans uploaded to the cloud?
+
+Not unless you turn on sync. Scans stay on your device by default, and password-protected PDFs, drafts and OCR text are never uploaded.
+
+### What can I use instead of Microsoft Lens?
+
+See [Microsoft Lens alternatives after its retirement](https://secondwindltd.xyz/alternatives/microsoft-lens-alternative/), which compares replacement options.
+
+### Why can't I search the text in my scanned PDF?
+
+A scanned PDF is only searchable in other apps if it has a text layer. Check any file with the free [PDF text layer checker](https://freescanner.secondwindltd.xyz/en/tools/pdf-text-layer-checker). More answers in the [full FAQ](docs/faq.md).
+<!-- /faq -->
 
 ## License
 
